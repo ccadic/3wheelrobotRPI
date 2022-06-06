@@ -5,3 +5,4 @@ Made with Solidworks 2019
 
 ![alt text](https://raw.githubusercontent.com/ccadic/3wheelrobotRPI/master/images/jeanev3h.JPG)
 
+GPL3 - opensource
